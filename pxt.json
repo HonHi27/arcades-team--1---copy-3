@@ -1,5 +1,5 @@
 {
-    "name": "Arcade's Team -1 - Copy #2",
+    "name": "Arcade's Team -2",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -28,7 +28,8 @@
         "tilemap.g.ts",
         "main.py",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
